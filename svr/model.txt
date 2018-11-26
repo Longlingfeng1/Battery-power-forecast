@@ -1,0 +1,16 @@
+tree
+version=v2
+num_class=1
+num_tree_per_iteration=1
+label_index=0
+max_feature_idx=5
+objective=binary sigmoid:1
+feature_names=charge_soc charge_U charge_I charge_temp charge_time charge_end_U
+feature_infos=[0:80] [-8.6000000000000227:50.800000000000068] [-155:175] [-6:22] [10:781110] [540:583]
+tree_sizes=
+
+end of trees
+
+feature importances:
+
+pandas_categorical:[]
